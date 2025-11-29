@@ -10,7 +10,7 @@ class Config:
     CRM_API_KEY = os.getenv("CRM_API_KEY", "")
     
     # Model Configuration
-    INTENT_MODEL_NAME = "facebook/bart-large-mnli"
+    INTENT_MODEL_NAME = "typeform/distilbert-base-uncased-mnli"
     
     # Server Configuration
     HOST = os.getenv("HOST", "0.0.0.0")
