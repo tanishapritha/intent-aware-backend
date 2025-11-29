@@ -1,0 +1,42 @@
+[
+    {
+        "id": "agent_001",
+        "name": "Alice Johnson",
+        "skills": ["technical", "complaint"],
+        "languages": ["en", "es"],
+        "status": "online",
+        "salesiq_id": "10001"
+    },
+    {
+        "id": "agent_002",
+        "name": "Bob Smith",
+        "skills": ["pricing", "billing", "refund"],
+        "languages": ["en", "fr"],
+        "status": "online",
+        "salesiq_id": "10002"
+    },
+    {
+        "id": "agent_003",
+        "name": "Charlie Kim",
+        "skills": ["demo", "pricing"],
+        "languages": ["en", "ko", "jp"],
+        "status": "online",
+        "salesiq_id": "10003"
+    },
+    {
+        "id": "agent_004",
+        "name": "Diana Prince",
+        "skills": ["technical", "demo"],
+        "languages": ["en", "de"],
+        "status": "busy",
+        "salesiq_id": "10004"
+    },
+    {
+        "id": "agent_005",
+        "name": "Evan Wright",
+        "skills": ["complaint", "refund", "billing"],
+        "languages": ["en"],
+        "status": "online",
+        "salesiq_id": "10005"
+    }
+]
